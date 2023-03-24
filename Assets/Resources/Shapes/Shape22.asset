@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51ce2c682a6fdab488e1e9507b46a604, type: 3}
+  m_Name: Shape22
+  m_EditorClassIdentifier: 
+  Columns: 2
+  Rows: 2
+  Board:
+  - column: 0100
+    _size: 2
+  - column: 0001
+    _size: 2
